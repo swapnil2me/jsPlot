@@ -1,0 +1,19 @@
+.card.text-center.m-auto:hover {
+  box-shadow: rgba(0, 0, 0, 0.22) 0px 19px 43px;
+  transform: translate3d(-1px, -3px, 0px);
+  cursor: pointer;
+  }
+
+.card.text-center.m-auto  {
+  background-color: rgb(12,8,27);
+}
+
+#figure {
+  padding: 0px;
+}
+
+.line {
+    fill: none;
+    stroke: #fafafa;
+    stroke-width: 1;
+}
